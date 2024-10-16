@@ -1,0 +1,27 @@
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Ignore Maven/Gradle build output directories
+target/
+out/
+build/
+
+# Ignore compiled Java files
+*.class
+
+# Ignore log files and temporary files
+*.log
+*.tmp
+
+# Ignore dependency libraries
+lib/
+
+# Ignore generated files
+*.jar
+*.war
+*.ear
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
