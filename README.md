@@ -1,7 +1,7 @@
-# Java GUI Application for Polling Systems
+# Polling System (Java GUI Application)
 
-This project's software needs are determined by the Online Polling System, a Java application with significant GUI and database properties. This project is intended for feedback forms or small-scale voting procedures like college elections.
+Polling System is a Java application that has significant GUI and database properties that establish the software requirements for this project. Feedback forms or college elections are one of the examples of small-scale voting procedures that this project is intended for.
 
-This program offers administrators and voters a quick and easy way to get involved in the polling process. Voters can select from the options that are already available in this application. When assessing the votes, the administrator's job is made easier by the ability to display all of the voter details in one convenient format.
+This software gives voters and poll workers a quick and easy method to get involved in the voting process. Through this application, people can cast their votes for the pre-existing alternatives. With the ability to access all voter details in one place, the administrator's job of assessing the votes is made easier.
 
-Prerequisite: The MySQL connector needs to be stored in the project's root directory or, if using Intellij IDEA, installed as an external library.
+A prerequisite is that the MySQL connection be stored in the project's root directory or, if using Intellij IDEA, added as an external library.
